@@ -1,0 +1,130 @@
+
+
+#head{
+	margin-left: 50px;
+	margin-right: 50px;
+	border: 1px solid black;
+}
+#head tbody td{
+	padding-left: 20px;
+}
+#txt-list{
+	margin-left: 50px;
+	margin-bottom: 5px;
+}
+table{
+	border-collapse: collapse;
+}
+
+.table-report{
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 100%;
+
+}
+
+#address{
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 50%;
+}
+#address tbody td{
+	padding-left: 30px;
+}
+#address td{
+	font-size: 30;
+}
+#list td ,th {
+  	border: 1px solid black;
+}
+#list td{
+	text-align: center;
+}
+.border{
+	border-width:1px;
+    border :solid 1px;
+
+}
+.head1 {
+	font-size: 22px;
+	text-align: center;
+	margin-top: 0px;
+}
+.par{
+	text-align: justify;
+	text-indent: 40px;
+}
+.font1{
+	font-size: 18px;
+	margin-top: 20px
+}
+.font2{
+	font-size: 20px;
+	margin-top: 20px
+}
+.font16{
+	font-size: 16px;
+}
+.tab2{
+	text-indent: 40px;
+}
+.tab{
+	margin-left: 40px;
+}
+p {
+	margin: 0;
+}
+h2 {
+	margin: 0;
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.tableborder{
+	border-color: rgb(0, 255, 0)
+}
+.no1
+{
+	width:55%; float:left;
+}
+.no2
+{
+	width:45%; float:left;
+}
+.par2{
+	text-align: justify;
+	text-indent: 10px;
+	font-size:18px;
+}
+.par3{
+	text-align: justify;
+	text-indent: 10px;
+	margin-top: -10px;
+	font-size:18px;
+}
+.par4{
+	text-align: justify;
+	text-indent: 10px;
+	font-size:18px;
+}
+.par5{
+	text-align: justify;
+	text-indent: 40px;
+	font-size:22px;
+	margin-top: -5px
+}
+.par6{
+	text-align: justify;
+	text-indent: 80px;
+	font-size:22px;
+	margin-top: -5px
+}
+.table {
+  border-collapse: collapse;
+}
+.t, .th, .td {
+  border: 1px solid black;
+}

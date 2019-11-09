@@ -1,0 +1,16 @@
+body{
+	background-color: #D3D3D3;
+	/*font-family: 'circularregular', 'circularregular', sans-serif;*/
+}
+.card-body, .navbar ,.sidebar{
+	-webkit-box-shadow: 0 12px 34px rgba(0, 0, 0, 0.12);
+	-moz-box-shadow: 0 12px 34px rgba(0, 0, 0, 0.12);
+	box-shadow: 0 12px 34px rgba(0, 0, 0, 0.12);
+}
+.card-body{
+	background-color: #FFFFFF;
+}
+.sideber{
+	height: 100vh;
+}
+
